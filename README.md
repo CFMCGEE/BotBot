@@ -1,4 +1,4 @@
-# BotBot
+# LittleJohn
 
 ```
 package [INSERT};
@@ -36,7 +36,7 @@ public class LittleJohn extends AdvancedRobot {
       
             setTurnGunRightRadians(gunTurnAmount); 
             setTurnRightRadians(robocode.util.Utils.normalRelativeAngle(10));
-            setAhead((eve.getDistance() - 20) * moveDirection); //moves it around 
+            setAhead((eve.getDistance() - 20) * moveDirection); 
             setFire(5);
 		
     }
