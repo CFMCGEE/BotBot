@@ -1,5 +1,4 @@
-# LittleJohn
-
+# LittleJohnSenior
 ```
 package pafighters;
 
